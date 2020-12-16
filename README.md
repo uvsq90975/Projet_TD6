@@ -1,2 +1,2 @@
 # Projet_TD6
-Calculatrice
+Calculatrice en Python
